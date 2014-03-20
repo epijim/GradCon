@@ -36,10 +36,8 @@ bing_verify:
 links:
 #  - title: Theme Setup
 #    url: /theme-setup
-  - title: Conferences
-    url: /tags/#GradCon
-  - title: 3 minute thesis
-    url: /tags/#3MT
+  - title: Choose event
+    url: /tags
   - title: Main MCR site
     url: http://mcr.jesus.cam.ac.uk
     external: true
