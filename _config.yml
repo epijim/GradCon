@@ -6,13 +6,13 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           James Black
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  name:           Jesus College MCR
+  avatar:         crest.jpg
+  bio:            "A repositary of past GradCons and Three Minute Thesis events."
   email:          james.black@cantab.net
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook:       https://www.facebook.com/JesusMCREnts
   github:         
   stackexchange:  
   linkedin:       
@@ -34,9 +34,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Main site
+#  - title: Theme Setup
+#    url: /theme-setup
+  - title: Conferences
+    url: /tags/#GradCon
+  - title: 3 minute thesis
+    url: /tags/#3MT
+  - title: Main MCR site
     url: http://mcr.jesus.cam.ac.uk
     external: true
 
