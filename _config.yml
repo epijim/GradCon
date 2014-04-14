@@ -1,15 +1,15 @@
-title:            Jesus College Academic
+title:            MCR academic events
 description:      A repositary of past GradCons and Three Minute Thesis events.
 disqus_shortname: jesusmcrgradcon
 #Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://mcr.jesus.cam.ac.uk/Academic # http://localhost:4000
 
 # Owner/author information
 owner:
   name:           Jesus College MCR
   avatar:         crest.jpg
   bio:            "A repositary of past GradCons and Three Minute Thesis events."
-  email:          james.black@cantab.net
+  email:          mcr-academic@jesus.cam.ac.uk
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       https://www.facebook.com/JesusMCREnts
